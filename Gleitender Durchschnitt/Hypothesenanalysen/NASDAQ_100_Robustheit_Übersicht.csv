@@ -1,0 +1,11 @@
+hypothese,zielgröße,getestete_kombinationen,anteil_signifikant
+H1_Kurs_vs_SMA,fwd_return,9,0.6666666666666666
+H1_Kurs_vs_SMA,fwd_mdd,9,1.0
+H2_SMA_Richtung,fwd_return,9,0.6666666666666666
+H2_SMA_Richtung,fwd_mdd,9,1.0
+H3_CrossOver,fwd_return,6,0.0
+H3_CrossOver,fwd_mdd,6,0.0
+H5_Drawdown_vom_Hoch,fwd_return,3,1.0
+H5_Drawdown_vom_Hoch,fwd_mdd,3,1.0
+H6_Momentum_RSI,fwd_return,3,0.6666666666666666
+H6_Momentum_RSI,fwd_mdd,3,0.6666666666666666
